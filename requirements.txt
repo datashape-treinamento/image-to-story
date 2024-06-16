@@ -1,0 +1,5 @@
+transformers
+gTTS
+langchain
+langchain-openai
+openai
